@@ -1,13 +1,10 @@
 package main
 
 func main() {
-
+	
 }
 
 // solution
-func a() {
-
-}
 
 // puck1609-leetcode-go
 // go-util
